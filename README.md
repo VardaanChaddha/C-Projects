@@ -10,8 +10,6 @@ This repository contains various projects demonstrating my understanding of low-
 | Project Name | Description | Key Concepts Used | Status |
 | :--- | :--- | :--- | :--- |
 | **Console Chess** | A fully functional 2-player chess game running in the CLI. | 2D Arrays, Pointers, Game Logic | ✅ Completed |
-| **Student Database** | A CRUD application to manage student records. | File I/O, Structs, Dynamic Memory | ✅ Completed |
-| **Matrix Multiplier** | Optimized matrix multiplication tool. | Math, Loops, Performance | 🚧 In Progress |
 
 ## 🛠️ Technologies & Concepts
 * **Language:** C (C99/C11 Standard)
